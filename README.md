@@ -1,4 +1,9 @@
-# Interactive Android App for Old Phone Pad Logic
+
+# Interactive Android App for Old Phone Pad
+
+**Author: Thomas**  
+Date: 27th May 2024
+
 
 This Android app simulates the logic of an old phone pad. The app features two different modes, both equipped with a clear button to reset all inputs and outputs, and a switch to toggle between modes.
 ### APK Link => https://drive.google.com/file/d/1FDyz4QGmzARP9_zGkFEV-ddnCdOnlcjc/view?usp=sharing
